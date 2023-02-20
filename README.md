@@ -17,6 +17,7 @@ How to run application:
 - Download repository
 - Open downloaded repository with a command line interface
 - Run 'npm install' and then 'nodemon app.js' in terminal in root directory of repository
+- Visit the site by opening a browser and going to the url: 'localhost:3000'
 
 Screenshots:
 
